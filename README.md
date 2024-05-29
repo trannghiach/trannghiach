@@ -5,14 +5,14 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on NOTHING
-- 🌱 I’m currently learning NOTHING
-- 👯 I’m looking to collaborate on NOTHING
-- 🤔 I’m looking for help with NOTHING
-- 💬 Ask me about NOTHING
-- 📫 How to reach me: NOTHING
-- 😄 Pronouns: NOTHING
-- ⚡ Fun fact: NOTHING
+🔭 I’m currently working on NOTHING
+🌱 I’m currently learning NOTHING
+👯 I’m looking to collaborate on NOTHING
+🤔 I’m looking for help with NOTHING
+💬 Ask me about NOTHING
+📫 How to reach me: NOTHING
+😄 Pronouns: NOTHING
+⚡ Fun fact: NOTHING
 --> HELLO WORLD, HELLO GITHUB
 ![d4ffe9412855850bdc44](https://github.com/trannghiach/trannghiach/assets/170714734/ff5b3874-641f-49ee-bfc4-6afe1226eada)
 
