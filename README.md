@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 **![d4ffe9412855850bdc44](https://github.com/trannghiach/trannghiach/assets/170714734/ff5b3874-641f-49ee-bfc4-6afe1226eada)
 -->
 <h1 align="center">Hi 👋, I'm trannghia</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A amateur guitarist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trannghiach&label=Profile%20views&color=0e75b6&style=flat" alt="trannghiach" /> </p>
 
