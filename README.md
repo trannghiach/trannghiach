@@ -1,17 +1,69 @@
-## Hi there 👋
-:D
+```
+░▒▓█▓▒░      ░▒▓█▓▒░▒▓█▓▒░       ░▒▓███████▓▒░░▒▓██████▓▒░░▒▓███████▓▒░░▒▓████████▓▒░▒▓██████▓▒░ ░▒▓██████▓▒░ ░▒▓███████▓▒░ 
+░▒▓█▓▒░      ░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░     ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░        
+░▒▓█▓▒░      ░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░     ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░        
+░▒▓█▓▒░      ░▒▓█▓▒░▒▓█▓▒░       ░▒▓██████▓▒░░▒▓████████▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓██████▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░░▒▓██████▓▒░  
+░▒▓█▓▒░      ░▒▓█▓▒░▒▓█▓▒░             ░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░     ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░      ░▒▓█▓▒░ 
+░▒▓█▓▒░      ░▒▓█▓▒░▒▓█▓▒░             ░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░     ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░      ░▒▓█▓▒░ 
+░▒▓████████▓▒░▒▓█▓▒░▒▓████████▓▒░▒▓███████▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓███████▓▒░░▒▓█▓▒░      ░▒▓██████▓▒░ ░▒▓██████▓▒░░▒▓███████▓▒░  
+                                                                                                   ░▒▓█▓▒░                  
+                                                                                                    ░▒▓██▓▒░                
+```
 
-<!--
-**trannghiach/trannghiach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i build things. i break things. sometimes both at once.
 
-Here are some ideas to get you started:
---> HELLO WORLD, HELLO GITHUB
-<!--
-**![d4ffe9412855850bdc44](https://github.com/trannghiach/trannghiach/assets/170714734/ff5b3874-641f-49ee-bfc4-6afe1226eada)
--->
+---
 
+**currently into:**  
+`agentic AI` · `offensive security` · `shipping products nobody asked for`
 
+**background noise:**  
+4th-year CS @ HCMUS · saigon · probably debugging something rn
 
+---
 
+### things i've shipped
 
+**[aurelinth-ctf-agentic-ai](https://github.com/trannghiach/aurelinth-ctf-agentic-ai)** — multi-agent framework that solves CTF web challenges autonomously. 20+ specialist agents, gemini-powered supervisor, blackbox & whitebox pipelines, redis streams, real-time monitor UI. it thinks, it hacks, it captures flags while i sleep.
 
+**[aurelinth.me](https://aurelinth.me)** — micro-SaaS i bootstrapped solo. AI video gen, auth, payments, async pipeline. built on a budget of approximately nothing.
+
+**[trading-simulator](https://github.com/trannghiach/trading-simulator)** — aurelinth trading simulator. because why not simulate losing money before actually losing money.
+
+**[ChapBaiSlayer-CTF-Writeups](https://github.com/trannghiach/ChapBaiSlayer-CTF-Writeups)** — CTF writeups from competitions. the receipts that prove i actually hack stuff and not just talk about it.
+
+---
+
+### how i operate
+
+```
+while alive:
+    learn_something_new()
+    if idea.exists():
+        ship(idea, budget=0)
+    if system.has_vulnerability():
+        exploit()  # ethically
+        then_fix()
+```
+
+i don't wait for permission to learn things. i read papers, break CTFs, build weird tools, and figure out the rest along the way.
+
+**tools i reach for:** python · javascript · react · fastapi · docker · redis · whatever's new and interesting
+
+**things i break into:** web apps · auth flows · APIs · CTF challenges · my own code (frequently)
+
+---
+
+### philosophy
+
+> ship fast. break things (on purpose). learn from the wreckage.
+
+i believe the best way to build secure systems is to first understand how they fall apart. and the best way to build AI agents is to give them real problems — not toy benchmarks.
+
+if it's new, i want to try it.  
+if it's hard, i want to solve it.  
+if it's impossible with no budget — that's my specialty.
+
+---
+
+<sub>this README was typed, not generated. probably.</sub>
