@@ -28,6 +28,8 @@ i build things. i break things. sometimes both at once.
 
 **[aurelinth.me](https://aurelinth.me)** — micro-SaaS i bootstrapped solo. AI video gen, auth, payments, async pipeline. built on a budget of approximately nothing.
 
+**[Seedance-2.0-APIze](https://github.com/trannghiach/Seedance-2.0-APIze)** — bytedance didn't ship a Seedance 2.0 API so i made one myself. reverse-wrapped Dreamina's UI with Playwright, exposed it as a clean REST API. written in Go because why not learn a new language on a weekend.
+
 **[trading-simulator](https://github.com/trannghiach/trading-simulator)** — aurelinth trading simulator. because why not simulate losing money before actually losing money.
 
 **[ChapBaiSlayer-CTF-Writeups](https://github.com/trannghiach/ChapBaiSlayer-CTF-Writeups)** — CTF writeups from competitions. the receipts that prove i actually hack stuff and not just talk about it.
