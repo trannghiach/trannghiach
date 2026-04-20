@@ -10,19 +10,19 @@
                                                                                                     ░▒▓██▓▒░                
 ```
 
-i build things. i break things. sometimes both at once.
+I love building things.
 
 ---
 
 **currently into:**  
-`agentic AI` · `offensive security` · `shipping products nobody asked for`
+`full-stack engineer` · `agentic-AI engineer` · `familiar with Golang + TypeScript + Python` · `shipping products nobody asked for`
 
 **background noise:**  
-4th-year CS @ HCMUS · saigon · probably debugging something rn
+4th-year CS @ HCMUS · Ho Chi Minh City · probably debugging something rn
 
 ---
 
-### things i've shipped
+### things I've shipped
 
 **[aurelinth-ctf-agentic-ai](https://github.com/trannghiach/aurelinth-ctf-agentic-ai)** — multi-agent framework that solves CTF web challenges autonomously. 20+ specialist agents, gemini-powered supervisor, blackbox & whitebox pipelines, redis streams, real-time monitor UI. it thinks, it hacks, it captures flags while i sleep.
 
@@ -36,31 +36,26 @@ i build things. i break things. sometimes both at once.
 
 ---
 
-### how i operate
+### how I operate
 
 ```
 while alive:
     learn_something_new()
     if idea.exists():
         ship(idea, budget=0)
-    if system.has_vulnerability():
-        exploit()  # ethically
-        then_fix()
 ```
 
-i don't wait for permission to learn things. i read papers, break CTFs, build weird tools, and figure out the rest along the way.
+I like to learn things. I read docs, build weird tools, but I don't forget to build web apps that help people.
 
-**tools i reach for:** python · javascript · react · fastapi · docker · redis · whatever's new and interesting
+**languages I know:** python · typescript · golang · java (a bit) · english (a language of course :Đ) · whatever's new and interesting
 
-**things i break into:** web apps · auth flows · APIs · CTF challenges · my own code (frequently)
+**things I do:** web apps · auth flows · APIs · CTF web-category challenges (to learn about application-layer security)
 
 ---
 
 ### philosophy
 
-> ship fast. break things (on purpose). learn from the wreckage.
-
-i believe the best way to build secure systems is to first understand how they fall apart. and the best way to build AI agents is to give them real problems — not toy benchmarks.
+> adapt or die 
 
 if it's new, i want to try it.  
 if it's hard, i want to solve it.  
