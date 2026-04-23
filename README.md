@@ -1,4 +1,4 @@
-```
+```text
 ░▒▓█▓▒░      ░▒▓█▓▒░▒▓█▓▒░       ░▒▓███████▓▒░░▒▓██████▓▒░░▒▓███████▓▒░░▒▓████████▓▒░▒▓██████▓▒░ ░▒▓██████▓▒░ ░▒▓███████▓▒░ 
 ░▒▓█▓▒░      ░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░     ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░        
 ░▒▓█▓▒░      ░▒▓█▓▒░▒▓█▓▒░      ░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░     ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░        
@@ -10,57 +10,83 @@
                                                                                                     ░▒▓██▓▒░                
 ```
 
-I love building things.
+I build full-stack products, internal tools, and automation systems.
 
 ---
 
-**currently into:**  
-`full-stack engineer` · `agentic-AI engineer` · `familiar with Golang + TypeScript + Python` · `shipping products nobody asked for`
+Final-year Computer Science student at HCMUS based in Ho Chi Minh City.  
+Interested in full-stack engineering, backend systems, developer tooling, platform workflows, and AI-assisted automation.
 
-**background noise:**  
-4th-year CS @ HCMUS · Ho Chi Minh City · probably debugging something rn
+**What I work with:**  
+`Go` · `TypeScript` · `Python` · `PostgreSQL` · `Redis` · `Next.js` · `FastAPI` · `Linux` · `AWS EC2`
 
----
-
-### things I've shipped
-
-**[aurelinth-ctf-agentic-ai](https://github.com/trannghiach/aurelinth-ctf-agentic-ai)** — multi-agent framework that solves CTF web challenges autonomously. 20+ specialist agents, gemini-powered supervisor, blackbox & whitebox pipelines, redis streams, real-time monitor UI. it thinks, it hacks, it captures flags while i sleep.
-
-**[aurelinth.me](https://aurelinth.me)** — micro-SaaS i bootstrapped solo. AI video gen, auth, payments, async pipeline. built on a budget of approximately nothing.
-
-**[Seedance-2.0-APIze](https://github.com/trannghiach/Seedance-2.0-APIze)** — bytedance didn't ship a Seedance 2.0 API so i made one myself. reverse-wrapped Dreamina's UI with Playwright, exposed it as a clean REST API. written in Go because why not learn a new language on a weekend.
-
-**[trading-simulator](https://github.com/trannghiach/trading-simulator)** — aurelinth trading simulator. because why not simulate losing money before actually losing money.
-
-**[ChapBaiSlayer-CTF-Writeups](https://github.com/trannghiach/ChapBaiSlayer-CTF-Writeups)** — CTF writeups from competitions. the receipts that prove i actually hack stuff and not just talk about it.
+**How I usually build:**  
+- full-stack apps with real workflows, auth, and data models  
+- internal tools and APIs that make repetitive work scriptable  
+- headless AI-CLI workflows using Claude Code, Codex CLI, and Gemini CLI  
+- Linux-first development and deployment on small-budget cloud setups
 
 ---
 
-### how I operate
+## selected projects
 
-```
+### [support-dashboard](https://github.com/trannghiach/support-dashboard)
+Full-stack ticket management system built with Go + Next.js.  
+Includes JWT auth, backend-enforced RBAC, ticket assignment flow, replies, status transitions, and an AI assistant for support agents.
+
+### [aurelinth-ctf-agentic-ai](https://github.com/trannghiach/aurelinth-ctf-agentic-ai)
+Multi-agent automation framework for web CTF challenges.  
+Built with orchestration logic, Redis streams, real-time monitoring UI, and isolated CLI-driven execution workflows.
+
+### [Seedance-2.0-APIze](https://github.com/trannghiach/Seedance-2.0-APIze)
+Go service that turns a browser-only workflow into a reusable REST API using Playwright.  
+Supports async job handling, polling, and headless automation for scriptable integrations.
+
+### [aurelinth.me](https://aurelinth.me)
+Bootstrapped micro-SaaS project focused on AI video generation workflows.  
+Built around product thinking, auth, payments, and async processing with a strong bias toward shipping fast and learning by building.
+
+### [ChapBaiSlayer-CTF-Writeups](https://github.com/trannghiach/ChapBaiSlayer-CTF-Writeups)
+Writeups from CTF competitions.  
+A record of how I approach debugging, reasoning, and application-layer security problems.
+
+---
+
+## engineering focus
+
+I like building systems that are actually useful:
+- full-stack apps with clear user flows
+- backend services with structured business logic
+- automation that removes manual work
+- tooling that helps developers move faster
+- AI-assisted workflows that still keep verification in the loop
+
+I use Linux command line daily for development, debugging, environment setup, process control, and automation.  
+I have also deployed personal projects on AWS Free Tier EC2 and worked with Docker-based local environments.
+
+---
+
+## how I operate
+
+```python
 while alive:
-    learn_something_new()
-    if idea.exists():
-        ship(idea, budget=0)
+    learn()
+    build()
+    improve()
 ```
 
-I like to learn things. I read docs, build weird tools, but I don't forget to build web apps that help people.
+I learn by reading docs, testing ideas quickly, and turning vague concepts into working software.
 
-**languages I know:** python · typescript · golang · java (a bit) · english (a language of course :Đ) · whatever's new and interesting
-
-**things I do:** web apps · auth flows · APIs · CTF web-category challenges (to learn about application-layer security)
-
----
-
-### philosophy
-
-> adapt or die 
-
-if it's new, i want to try it.  
-if it's hard, i want to solve it.  
-if it's impossible with no budget — that's my specialty.
+If something is repetitive, I try to automate it.  
+If something is manual, I try to wrap it as a tool or API.  
+If something is new, I usually want to understand how it works under the hood.
 
 ---
 
-<sub>this README was typed, not generated. probably.</sub>
+## currently exploring
+
+`platform engineering` · `developer productivity` · `AI-assisted engineering workflows` · `cloud/dev tooling` · `system design`
+
+---
+
+<sub>Built by <a href="https://github.com/trannghiach">@trannghiach</a> a.k.a @lilsadfoqs.</sub>
