@@ -24,12 +24,15 @@ Interested in backend engineering, platform systems, developer tooling, and AI-a
 ## featured project
 
 ### [relayops](https://github.com/trannghiach/relayops)
-Event-driven workflow platform with retry, backoff, and dead-letter handling.
+Event-driven workflow platform with retry, backoff, dead-letter handling, and replayable job recovery.
 
 - async job processing using NATS
-- retry + DLQ + replay control
+- retry + backoff + dead-letter queue
 - execution history via delivery attempts
-- full-stack dashboard (Next.js + Ant Design)
+- full-stack dashboard with demo event generation
+- deployed on AWS EC2 with Docker Compose, native Nginx, and Certbot
+
+Live demo: https://relayops.lilsadfoqs.dev
 
 > demonstrates system design beyond CRUD
 
@@ -57,7 +60,8 @@ CTF writeups focused on debugging, reasoning, and application-layer security.
 ## what i work with
 
 `Go` · `TypeScript` · `Python` · `PostgreSQL` · `Redis`  
-`Next.js` · `FastAPI` · `Linux` · `AWS EC2`
+`Next.js` · `FastAPI` · `Linux` · `AWS EC2`  · `Docker`   
+`Nginx` · `NATS`
 
 ---
 
