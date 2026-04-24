@@ -10,63 +10,89 @@
                                                                                                     ░▒▓██▓▒░                
 ```
 
-I build full-stack products, internal tools, and automation systems.
+# hi, i'm trannghiach a.k.a lilsadfoqs
+
+I build backend systems, full-stack products, and automation tools with a focus on real workflows and system design.
 
 ---
 
-Final-year Computer Science student at HCMUS based in Ho Chi Minh City.  
-Interested in full-stack engineering, backend systems, developer tooling, platform workflows, and AI-assisted automation.
+Final-year Computer Science student at HCMUS (Ho Chi Minh City).  
+Interested in backend engineering, platform systems, developer tooling, and AI-assisted automation.
 
-**What I work with:**  
-`Go` · `TypeScript` · `Python` · `PostgreSQL` · `Redis` · `Next.js` · `FastAPI` · `Linux` · `AWS EC2`
+---
 
-**How I usually build:**  
-- full-stack apps with real workflows, auth, and data models  
-- internal tools and APIs that make repetitive work scriptable  
-- headless AI-CLI workflows using Claude Code, Codex CLI, and Gemini CLI  
-- Linux-first development and deployment on small-budget cloud setups
+## featured project
+
+### [relayops](https://github.com/trannghiach/relayops)
+Event-driven workflow platform with retry, backoff, and dead-letter handling.
+
+- async job processing using NATS
+- retry + DLQ + replay control
+- execution history via delivery attempts
+- full-stack dashboard (Next.js + Ant Design)
+
+> demonstrates system design beyond CRUD
 
 ---
 
 ## selected projects
 
 ### [support-dashboard](https://github.com/trannghiach/support-dashboard)
-Full-stack ticket management system built with Go + Next.js.  
-Includes JWT auth, backend-enforced RBAC, ticket assignment flow, replies, status transitions, and an AI assistant for support agents.
+Full-stack ticket system with JWT auth, backend RBAC, workflow transitions, and AI-assisted replies.
 
 ### [aurelinth-ctf-agentic-ai](https://github.com/trannghiach/aurelinth-ctf-agentic-ai)
-Multi-agent automation framework for web CTF challenges.  
-Built with orchestration logic, Redis streams, real-time monitoring UI, and isolated CLI-driven execution workflows.
+Multi-agent automation framework for web CTF with Redis streams and real-time monitoring.
 
 ### [Seedance-2.0-APIze](https://github.com/trannghiach/Seedance-2.0-APIze)
-Go service that turns a browser-only workflow into a reusable REST API using Playwright.  
-Supports async job handling, polling, and headless automation for scriptable integrations.
+Go service that turns browser workflows into reusable APIs using Playwright.
 
 ### [aurelinth.me](https://aurelinth.me)
-Bootstrapped micro-SaaS project focused on AI video generation workflows.  
-Built around product thinking, auth, payments, and async processing with a strong bias toward shipping fast and learning by building.
+Bootstrapped micro-SaaS for AI video workflows with async processing and product-first design.
 
 ### [ChapBaiSlayer-CTF-Writeups](https://github.com/trannghiach/ChapBaiSlayer-CTF-Writeups)
-Writeups from CTF competitions.  
-A record of how I approach debugging, reasoning, and application-layer security problems.
+CTF writeups focused on debugging, reasoning, and application-layer security.
 
 ---
 
-## engineering focus
+## what i work with
 
-I like building systems that are actually useful:
-- full-stack apps with clear user flows
-- backend services with structured business logic
-- automation that removes manual work
-- tooling that helps developers move faster
-- AI-assisted workflows that still keep verification in the loop
-
-I use Linux command line daily for development, debugging, environment setup, process control, and automation.  
-I have also deployed personal projects on AWS Free Tier EC2 and worked with Docker-based local environments.
+`Go` · `TypeScript` · `Python` · `PostgreSQL` · `Redis`  
+`Next.js` · `FastAPI` · `Linux` · `AWS EC2`
 
 ---
 
-## how I operate
+## how i build
+
+- build full-stack systems with real workflows and constraints  
+- design backend services with clear separation of concerns  
+- turn repetitive work into tools, scripts, or APIs  
+- use AI tools to accelerate workflows (not replace reasoning)  
+- develop and deploy using Linux-first environments  
+
+---
+
+## what i care about
+
+- async processing, retries, and failure handling  
+- system design over toy implementations  
+- automation and developer productivity  
+- understanding how systems work under the hood  
+
+---
+
+## currently exploring
+
+`platform engineering` · `developer tooling` · `AI-assisted workflows` · `system design`
+
+---
+
+## stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=trannghiach&show_icons=true&hide_border=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trannghiach&layout=compact&hide_border=true&theme=tokyonight)
+
+---
 
 ```python
 while alive:
@@ -74,19 +100,6 @@ while alive:
     build()
     improve()
 ```
-
-I learn by reading docs, testing ideas quickly, and turning vague concepts into working software.
-
-If something is repetitive, I try to automate it.  
-If something is manual, I try to wrap it as a tool or API.  
-If something is new, I usually want to understand how it works under the hood.
-
----
-
-## currently exploring
-
-`platform engineering` · `developer productivity` · `AI-assisted engineering workflows` · `cloud/dev tooling` · `system design`
-
 ---
 
 <sub>Built by <a href="https://github.com/trannghiach">@trannghiach</a> a.k.a @lilsadfoqs.</sub>
